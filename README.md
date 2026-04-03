@@ -55,15 +55,15 @@ The objective is to provide **data-driven insights** that help optimize charging
 
 ### 🔹 Executive Overview
 
-![Executive Overview](Executive Overview.png)
+Executive Overview.png
 
 ### 🔹 Utilization & Demand Patterns
 
-![Utilization](Utilization & Demand Patterns.png)
+Utilization & Demand Patterns.png
 
 ### 🔹 Pricing & Revenue Insights
 
-![Pricing](Pricing & Revenue Insights.png)
+Pricing & Revenue Insights.png
 
 ---
 
