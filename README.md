@@ -78,14 +78,8 @@ Pricing & Revenue Insights.png
 
 ## 📂 Dataset
 
-Due to GitHub file size limitations, only a sample dataset is included in this repository.
-
-* 📄 Sample Dataset: `ev_dataset_sample.csv`
-
 👉 Full dataset can be accessed here:
 https://docs.google.com/spreadsheets/d/1XNqOZAwHPnrEf47TGGKXCZ7f0QDQCb0X/edit?usp=sharing&ouid=118069519635142473615&rtpof=true&sd=true
-
-> Note: The dashboard is built using the complete dataset. The sample dataset is provided for structure and reproducibility.
 
 ---
 
