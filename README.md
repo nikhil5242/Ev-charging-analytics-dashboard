@@ -25,7 +25,7 @@ The objective is to provide **data-driven insights** that help optimize charging
 * Average Utilization Rate
 * Total Revenue
 * Average Wait Time
-  👉 Provides a high-level snapshot of network performance
+👉 Provides a high-level snapshot of network performance
 
 ---
 
