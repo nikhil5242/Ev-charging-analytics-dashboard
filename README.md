@@ -83,6 +83,15 @@ https://docs.google.com/spreadsheets/d/1XNqOZAwHPnrEf47TGGKXCZ7f0QDQCb0X/edit?us
 
 ---
 
+## 🧠 SQL Analysis
+
+Structured queries were used to:
+- Aggregate utilization and revenue metrics  
+- Compare pricing strategies  
+- Analyze peak vs non-peak usage patterns  
+
+Refer to `EV_Data_Cleaning.sql` for full query logic.
+
 ## 📈 Key Insights
 
 * Peak-hour utilization is significantly higher than off-peak periods
@@ -161,7 +170,7 @@ At least one group differs significantly, confirming that **operational factors 
 
 * `EV_Dashboard.pbix` → Power BI Dashboard File
 * `Executive Overview.png`, `Utilization & Demand Patterns.png`, `Pricing & Revenue Insights.png` → Dashboard Screenshots
-
+* `EV_Data_Cleaning.sql` → SQL queries for data analysis and aggregation 
 ---
 
 ## 🚀 Author
